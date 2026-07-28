@@ -23,16 +23,17 @@ main {
     flex: 1;
 }
 
-.cartao-imagem {
-    width: 100%; /* Agora ela vai ocupar 100% dos 260px do cartão */
-    height: auto;
-}
-
-.cabecalho-link{
+.cabecalho-link { 
     color: #fff;
     text-decoration: none;
 }
 
 h1 {
+    color: #fff;
+}
+
+footer {
+    background-color: #68bbff;
+    padding: 15px 25px;
     color: #fff;
 }
