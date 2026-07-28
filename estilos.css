@@ -16,7 +16,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #c78420; /* Agora funciona porque o nome bate com o HTML */
+    background-color: #68bbff; /* Agora funciona porque o nome bate com o HTML */
 }
 
 main {
