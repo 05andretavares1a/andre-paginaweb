@@ -38,3 +38,12 @@ main {
     width: 100%; /* Agora ela vai ocupar 100% dos 260px do cartão */
     height: auto;
 }
+
+.cabecalho-link{
+    color: #fff;
+    text-decoration: none;
+}
+
+h1 {
+    color: #fff;
+}
