@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual é a principal finalidade da tela apresentada no protótipo?",
+    "opcoes": [
+      "Centralizar e organizar diferentes tipos de materiais de estudo de uma aula.",
+      "Funcionar como uma rede social para conversar com outros alunos.",
+      "Realizar o pagamento de mensalidades e cursos."
+    ],
+    "resposta_correta": "Centralizar e organizar diferentes tipos de materiais de estudo de uma aula."
+  },
+  {
+    "id": 2,
+    "pergunta": "Quais tipos de formatos de mídia o aplicativo permite visualizar na lista?",
+    "opcoes": [
+      "PDFs, vídeos, fotos de lousa e anotações pessoais.",
+      "Apenas arquivos de áudio e podcasts.",
+      "Somente transmissões ao vivo de professores."
+    ],
+    "resposta_correta": "PDFs, vídeos, fotos de lousa e anotações pessoais."
+  },
+  {
+    "id": 3,
+    "pergunta": "Como o usuário pode encontrar rapidamente um arquivo específico dentro de um tema de estudo?",
+    "opcoes": [
+      "Usando a barra de pesquisa ou filtrando pelos botões de categoria de mídia.",
+      "Excluindo os outros materiais até sobrar o arquivo desejado.",
+      "Reiniciando o aplicativo para recarregar a lista."
+    ],
+    "resposta_correta": "Usando a barra de pesquisa ou filtrando pelos botões de categoria de mídia."
+  },
+  {
+    "id": 4,
+    "pergunta": "O que indica o componente visual de progresso localizado no topo da lista?",
+    "opcoes": [
+      "A quantidade de materiais daquele tópico que o aluno já revisou.",
+      "O limite de espaço de armazenamento disponível no celular.",
+      "A velocidade da conexão de internet."
+    ],
+    "resposta_correta": "A quantidade de materiais daquele tópico que o aluno já revisou."
+  },
+  {
+    "id": 5,
+    "pergunta": "Para que serve a opção de alternar visualização ao lado da barra de busca?",
+    "opcoes": [
+      "Alternar entre o modo de exibição em lista ou em grade/mosaico.",
+      "Ativar ou desativar o som dos vídeos da lista.",
+      "Mudar o idioma do aplicativo."
+    ],
+    "resposta_correta": "Alternar entre o modo de exibição em lista ou em grade/mosaico."
+  }
+]
